@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCodeGenerator</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="generate_a_code">GENERATE A CODE</string>
+</resources>
